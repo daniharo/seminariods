@@ -1,0 +1,2 @@
+# seminariods
+Seminario de DS
